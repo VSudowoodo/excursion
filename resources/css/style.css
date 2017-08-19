@@ -1,15 +1,43 @@
 body {
   background-color: #000;
+}
+
+h1, h2, p {
+  font-family: Verdana;
+  color: #fff;
   text-align: center;
 }
 
 h1 {
-  font: Normal 50px Verdana;
-  color: #fff;
-  text-align: center;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: Gray;
+}
+
+img, video {
+  display: block;
+  max-width: 100%;
+  margin:auto;
 }
 
 .download {
   font-size: 16px;
   color: Aquamarine;
+}
+
+#phone {
+  margin-top: 25px;
+}
+
+#footer {
+  text-align: right;
 }
