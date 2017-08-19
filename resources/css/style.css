@@ -1,0 +1,15 @@
+body {
+  background-color: #000;
+  text-align: center;
+}
+
+h1 {
+  font: Normal 50px Verdana;
+  color: #fff;
+  text-align: center;
+}
+
+.download {
+  font-size: 16px;
+  color: Aquamarine;
+}
